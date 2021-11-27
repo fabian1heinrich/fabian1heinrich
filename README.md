@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer & an Electronic Warfare Officer at the German Air Force
 
--  I studied Mathematics and Computer Science @ Universitaet der Bundeswehr in Munic and Boston University from 2016 to 2020
+-  I studied Mathematics and Computer Science @ Universitaet der Bundeswehr in Munich and Boston University from 2016 to 2020
    -  B.Sc. Mathematical Engineering 10/2016-12/2018, Grade: 1.42 (valedictorian)
    -  M.Sc. Computer Science 01/2019-10/2020, Grade 1.06 (valedictorian)
 -  I have been a member of the LISP Research Group @ Boston University since 08/2018
